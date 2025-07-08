@@ -65,3 +65,18 @@ Visit [http://127.0.0.1:8000/admin/](http://127.0.0.1:8000/admin/)
 ## License
 See [LICENSE](LICENSE). 
 
+
+## Screenshots
+
+### Home Page (1)
+![Home Page 1](statics/img/screenshots/home-page-1.png)
+
+### Home Page (2)
+![Home Page 2](statics/img/screenshots/home-page-2.png)
+
+### Home Page (3)
+![Home Page 3](statics/img/screenshots/home-page-3.png)
+
+### Footer
+![Footer](statics/img/screenshots/footer.png) 
+
